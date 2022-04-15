@@ -1,0 +1,27 @@
+#headeri {
+  padding: 20px;
+  background-color: mintcream;
+  color: black;
+}
+
+#logo {
+    border-radius: 50%;
+    float: left;
+  }
+
+
+#footeri {
+  padding: 15px;
+}
+
+
+#kuva {
+  padding: 30px;
+  align-items: center;
+}
+
+body {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  }  
