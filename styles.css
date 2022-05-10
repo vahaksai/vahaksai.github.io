@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+#headeri {
+    padding: 20px;
+    background-color: #69b9c1;
+    color: black;
+    border-radius: 5%;
+  }
+
+
+#logo {
+    border-radius: 50%;
+    float: left;
+  }
+  
+ 
+ .card {
+   max-width: 200px;
+   text-align: center;
+ }
+ 
+.side {
+  align-items: center;
+}
+ 
+#kuvat {
+  text-align: center;
+}
+
+#linkit {
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+  background-color: mintcream;
+  border-radius: 5%;
+}
+
+#container-fluid {
+  background-color: mintcream;
+}
+
+
+#vinkit {
+  text-align: center;
+}
+
+#footeri {
+  padding: 15px;
+  background-color: #669eb3;
+  color: antiquewhite;
+}
+
+a:hover {
+  color: red;
+  transition-property: color;
+  transition-duration: 1s;
+}
+
+a:visited {
+  color: rgb(2, 134, 33);
+}
